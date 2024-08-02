@@ -21,5 +21,5 @@ func main() {
 	router.StaticFS("/", http.FS(subFS))
 
 	// Listen and serve on 0.0.0.0:8080
-	router.Run(":8080")
+	router.Run(":25050")
 }
