@@ -1,0 +1,31 @@
+baseURL: https://www.gearworkssmp.com/
+languageCode: en-us
+params:
+  profileMode:
+    enabled: true
+    title: "Gearworks SMP" # optional default will be site title
+    subtitle: "The Largest Create Mod Server by Uberswe"
+    imageUrl: "/images/gearworks_logo.png" # optional
+    imageTitle: "Gearworks SMP Logo" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Join
+        url: "/join"
+      - name: Rules
+        url: "/rules"
+      - name: Latest
+        url: "/latest"
+
+  socialIcons: # optional
+    - name: "Github"
+      url: "https://github.com/GearworksSMP"
+    - name: "Patreon"
+      url: "https://patreon.com/uberswe"
+    - name: "Discord"
+      url: "https://discord.gg/NQJuhb6stv"
+  contact:
+    email: admin@uberswe.com
+  subtitle: The Largest Create Mod Server
+title: Gearworks SMP
+theme: hugo-PaperMod
