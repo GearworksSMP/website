@@ -1,0 +1,4 @@
+baseURL = 'https://www.gearworkssmp.com/'
+languageCode = 'en-us'
+title = 'Gearworks SMP'
+theme = 'hugo-PaperMod'
