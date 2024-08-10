@@ -1,6 +1,7 @@
 baseURL: https://www.gearworkssmp.com/
 languageCode: en-us
 params:
+  env: production
   profileMode:
     enabled: true
     title: "Gearworks SMP" # optional default will be site title
@@ -14,8 +15,8 @@ params:
         url: "/join"
       - name: Rules
         url: "/rules"
-      - name: Latest
-        url: "/latest"
+      - name: Posts
+        url: "/posts"
 
   socialIcons: # optional
     - name: "Github"

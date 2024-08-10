@@ -9,4 +9,4 @@ Currently Gearworks SMP is in the testing phase and has just finished the Alpha 
 
 The server is planned to go live mid September as a Patreon server. Any of the paid Patreon tiers will be free to apply to join. You will need a Minecraft Java account and the latest version of the [modpack](https://www.curseforge.com/minecraft/modpacks/create-gearworks) to join.
 
-Make sure to join Discord to be notified when the beta goes live: https://discord.gg/NQJuhb6stv.
+Make sure to join our Discord to be notified when the beta goes live: https://discord.gg/NQJuhb6stv.
