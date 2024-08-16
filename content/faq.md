@@ -2,7 +2,7 @@
 title: "Frequently Asked Questions"
 layout: "page"
 url: "/faq/"
-summary: Frequently Asked Questions For Gearworks SMP
+summary: Frequently Asked Questions For The Gearworks SMP
 ---
 
 > How do I join?
