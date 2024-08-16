@@ -28,5 +28,7 @@ params:
   contact:
     email: admin@uberswe.com
   subtitle: The Largest Create Mod Server
+  ShowShareButtons: true
+  ShareButtons: [ "facebook", "twitter", "whatsapp", "telegram" ]
 title: Gearworks SMP
 theme: hugo-PaperMod
