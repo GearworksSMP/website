@@ -41,6 +41,8 @@ There are 6 different survival server and 4 of the servers have been prepped wit
 
 We encourage you to try many different mods, not just Create. There is also Farmers Delight, Fruitful Fun, Go fish! and more!
 
+Keep inventory is turned on but you will lose all XP upon death.
+
 ### South West
 
 This server uses [Lithosphere](https://www.curseforge.com/minecraft/mc-mods/lithosphere) for terrain generation.
