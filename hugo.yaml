@@ -19,6 +19,14 @@ params:
         url: "/faq"
       - name: Posts
         url: "/posts"
+      - name: North West Map
+        url: "/maps/northwest/"
+      - name: North East Map
+        url: "/maps/northeast/"
+      - name: South West Map
+        url: "/maps/southwest/"
+      - name: South East Map
+        url: "/maps/southeast/"
 
   socialIcons: # optional
     - name: "Github"
