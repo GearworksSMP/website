@@ -53,7 +53,7 @@ This server uses [Tectonic](https://www.curseforge.com/minecraft/mc-mods/tectoni
 
 ### Mining Server
 
-No additional supplies are provided on this server. There is no `/spawn` command. To leave user `/server {server}`
+No additional supplies are provided on this server. There is no `/spawn` command. To leave use `/server {server}`
 
 This server resets every 4 days, anything left on this server will be wiped.
 
