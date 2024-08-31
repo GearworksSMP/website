@@ -2,31 +2,9 @@ baseURL: https://www.gearworkssmp.com/
 languageCode: en-us
 params:
   env: production
-  profileMode:
-    enabled: true
-    title: "Gearworks SMP" # optional default will be site title
-    subtitle: "The Largest Create Mod Server by Uberswe"
-    imageUrl: "/images/gearworks_logo.png" # optional
-    imageTitle: "Gearworks SMP Logo" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
-    buttons:
-      - name: Join
-        url: "/join"
-      - name: Rules
-        url: "/rules"
-      - name: FAQ
-        url: "/faq"
-      - name: Posts
-        url: "/posts"
-      - name: North West Map
-        url: "/maps/northwest/"
-      - name: North East Map
-        url: "/maps/northeast/"
-      - name: South West Map
-        url: "/maps/southwest/"
-      - name: South East Map
-        url: "/maps/southeast/"
+  homeInfoParams:
+    Title: Welcome! &#x1f44b;
+    Content: To join the server you will need the modpack found at this link https://www.curseforge.com/minecraft/modpacks/create-gearworks
 
   socialIcons: # optional
     - name: "Github"
@@ -42,3 +20,37 @@ params:
   ShareButtons: [ "facebook", "twitter", "whatsapp", "telegram" ]
 title: Gearworks SMP
 theme: hugo-PaperMod
+menu:
+  main:
+    - identifier: join
+      name: Join
+      url: "/join"
+      weight: 1
+    - identifier: rules
+      name: Rules
+      url: "/rules"
+      weight: 2
+    - identifier: faq
+      name: FAQ
+      url: "/faq"
+      weight: 3
+    - identifier: posts
+      name: Posts
+      url: "/posts"
+      weight: 4
+    - identifier: northwest
+      name: North West
+      url: "/maps/northwest/"
+      weight: 10
+    - identifier: northeast
+      name: North East
+      url: "/maps/northeast/"
+      weight: 20
+    - identifier: southwest
+      name: South West
+      url: "/maps/southwest/"
+      weight: 30
+    - identifier: southeast
+      name: South East
+      url: "/maps/southeast/"
+      weight: 40
