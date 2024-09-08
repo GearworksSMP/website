@@ -5,7 +5,7 @@ draft: false
 params:
   author: Uberswe
   ShowShareButtons: true
-weight: 15
+weight: 10
 cover:
   image: "/images/gearworks-lobby.png"
   alt: "Gearworks Lobby"
