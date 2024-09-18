@@ -4,7 +4,7 @@ params:
   env: production
   homeInfoParams:
     Title: Welcome! &#x1f44b;
-    Content: To join the server you will need the modpack found at this link https://www.curseforge.com/minecraft/modpacks/create-gearworks
+    Content: Read the [join](/join/) page for more information on how to join the largest Create mod server!
 
   socialIcons: # optional
     - name: "Github"

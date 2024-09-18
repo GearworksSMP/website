@@ -5,8 +5,18 @@ url: "/join/"
 summary: Join The Gearworks SMP
 ---
 
-Currently, Gearworks SMP is in the testing phase and the [beta is currently open](/posts/gearworks-beta-guide/). It is free to join by downloading the modpack [here](https://www.curseforge.com/minecraft/modpacks/create-gearworks).
+Gearworks SMP is a paid server that you can join [by becoming a paid Patreon member of Uberswe](https://www.patreon.com/uberswe/membership).
 
-The server is planned to go live mid September as a [Patreon](https://www.patreon.com/uberswe) server. Any of the paid Patreon tiers will be free to apply to join. You will need a Minecraft Java account and the latest version of the [modpack](https://www.curseforge.com/minecraft/modpacks/create-gearworks) to join.
+Why join the server? Gearworks main focus is building using the [Create mod](https://www.curseforge.com/minecraft/mc-mods/create) and building a community around that. A large focus also tends to be around trains and train lines.
 
-Make sure to join our Discord to be notified when the beta goes live: https://discord.gg/NQJuhb6stv.
+Here is a list of a few things we thing are important:
+
+- Stability is a priority, this means a high server uptime, in-frequent modpack updates, admins who help reduce lag and worlds/seasons that are longer than 1 year.
+- We take our [Rules](/rules/) seriously and will ban players who don't follow them.
+- Uberswe also plays and makes content on the servers.
+- A focus on building, PVP is only allowed when both parties agree to it.
+- Claims to protect your builds and inventories.
+- Custom integrations to encourage engagement between players.
+- Scalabity by combining multiple servers into a single instance.
+
+Make sure to join our Discord: https://discord.gg/NQJuhb6stv.
