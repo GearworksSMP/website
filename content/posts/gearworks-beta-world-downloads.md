@@ -16,4 +16,4 @@ The Gearworks beta has now ended. The world files are available to download belo
 - [South East](https://www.gearworkssmp.com/worlds/gw_beta_southeast.zip)
 - [South West](https://www.gearworkssmp.com/worlds/gw_beta_southwest.zip)
 
-You will need the [Create: Gearworks](https://www.curseforge.com/minecraft/modpacks/create-gearworks) modpack to load these worlds.
+You will need the [Create: Gearworks](https://www.curseforge.com/minecraft/modpacks/create-gearworks) modpack to load these worlds. Version 0.3.6 is the most relevant version for the beta worlds.
