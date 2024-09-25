@@ -9,7 +9,7 @@ Gearworks SMP is a paid server that you can join [by becoming a paid Patreon mem
 
 Why join the server? Gearworks main focus is building using the [Create mod](https://www.curseforge.com/minecraft/mc-mods/create) and building a community around that. A large focus also tends to be around trains and train lines.
 
-Here is a list of a few things we thing are important:
+Here is a list of a few things we think are important:
 
 - Stability is a priority, this means a high server uptime, in-frequent modpack updates, admins who help reduce lag and worlds/seasons that are longer than 1 year.
 - We take our [Rules](/rules/) seriously and will ban players who don't follow them.
