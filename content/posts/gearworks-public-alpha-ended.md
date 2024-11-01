@@ -7,7 +7,7 @@ params:
   ShowShareButtons: true
 weight: 10
 cover:
-  image: "/images/grafana_gearworks_alpha_create_mod_stats.png"
+  image: "/images/grafana_gearworks_alpha_create_mod_stats.jpg"
   alt: "Gearworks Alpha Grafana Stats"
   caption: "Grafana charts and statistics from the Gearworks Public Alpha"
   relative: false # To use relative path for cover image, used in hugo Page-bundles

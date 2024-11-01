@@ -7,7 +7,7 @@ params:
   ShowShareButtons: true
 weight: 10
 cover:
-  image: "/images/gearworks-beta.png"
+  image: "/images/gearworks-beta.jpg"
   alt: "Uberswe Holding Gearworks Beta Hat"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
   linkFullImages: true

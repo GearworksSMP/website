@@ -7,7 +7,7 @@ params:
   ShowShareButtons: true
 weight: 10
 cover:
-  image: "/images/gearworks-lobby.png"
+  image: "/images/gearworks-lobby.jpg"
   alt: "Gearworks Lobby"
   caption: "The lobby of the Gearworks SMP during the beta phase"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
@@ -35,7 +35,7 @@ There is also a `/spawn` command for most servers.
 
 ## Survival servers
 
-![Gearworks Survival Beta](/images/gearworks-beta-survival.png)
+![Gearworks Survival Beta](/images/gearworks-beta-survival.jpg)
 
 There are 6 different survival server and 4 of the servers have been prepped with an infinite amount of supplies for you to test with during the Beta.
 
@@ -59,7 +59,7 @@ This server resets every 4 days, anything left on this server will be wiped.
 
 ### Uberswe's Central Server
 
-![A view of Uberswe's central server](/images/gearworks-central.png)
+![A view of Uberswe's central server](/images/gearworks-central.jpg)
 
 For Uberswe's future survival series, players will be able to visit in adventure mode.
 
@@ -67,7 +67,7 @@ Inventory does not sync on this server currently.
 
 ## Creative Server
 
-![Gearworks Creative Server Plots](/images/gearworks-creative.png)
+![Gearworks Creative Server Plots](/images/gearworks-creative.jpg)
 
 On the creative server there is a predefined set of plots available for you to claim. You may claim a plot or go further out to claim open areas but you must make claims in order to build.
 
@@ -86,7 +86,7 @@ Uberswe will most likely do a live stream of the builds towards the end of the b
 
 ## Minigames
 
-![Gearworks Minigames](/images/gearworks-minigames.png)
+![Gearworks Minigames](/images/gearworks-minigames.jpg)
 
 ## Claims
 

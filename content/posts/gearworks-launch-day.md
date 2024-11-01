@@ -7,7 +7,7 @@ params:
   ShowShareButtons: true
 weight: 10
 cover:
-  image: "/images/gearworks_beta_photo.png"
+  image: "/images/gearworks_beta_photo.jpg"
   alt: "Gearworks Beta Participants Group Photo"
   caption: "The group photo from the Gearworks SMP during the beta phase"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
