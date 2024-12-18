@@ -38,19 +38,7 @@ menu:
       name: Posts
       url: "/posts"
       weight: 4
-    - identifier: northwest
-      name: North West
-      url: "/maps/northwest/"
-      weight: 10
-    - identifier: northeast
-      name: North East
-      url: "/maps/northeast/"
-      weight: 20
-    - identifier: southwest
-      name: South West
-      url: "/maps/southwest/"
-      weight: 30
-    - identifier: southeast
-      name: South East
-      url: "/maps/southeast/"
-      weight: 40
+    - identifier: live-maps
+      name: Live Maps
+      url: "/live-maps"
+      weight: 5

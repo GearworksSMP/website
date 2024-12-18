@@ -20,6 +20,7 @@ summary: Gearworks SMP rules
 - Keep entities low and farms at a reasonable size. Admins may disable or remove things that cause a lot of lag as needed.
 - Don't use offline chunk loading or anything else that may affect server performance when offline.
 - Don't move Lootr chests unless they are in the way of your build/claim, contact an admin if you are unsure.
+- No gambling machines, betting on horse races or something similar is ok as long as no real world money is involved.
 - Breaking rules may result in a warning or direct ban.
 
 Report any rule breaking incidents by pinging a moderator or by opening a support ticket via our Discord: https://discord.gg/NQJuhb6stv

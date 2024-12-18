@@ -11,12 +11,10 @@ Why join the server? Gearworks main focus is building using the [Create mod](htt
 
 Here is a list of a few things we think are important:
 
-- Stability is a priority, this means a high server uptime, in-frequent modpack updates, admins who help reduce lag and worlds/seasons that are longer than 1 year.
-- We take our [Rules](/rules/) seriously and will ban players who don't follow them.
-- Uberswe also plays and makes content on the servers.
-- A focus on building, PVP is only allowed when both parties agree to it.
-- Claims to protect your builds and inventories.
-- Custom integrations to encourage engagement between players.
-- Scalabity by combining multiple servers into a single instance.
+- Stability and high server uptime
+- A nice and welcoming community, we do not tolerate sexism, harassment, racism, etc.
+- One flat fee, no microtransactions
+- Regular tested updates
+- Frequent events where every member is welcome
 
 Make sure to join our Discord: https://discord.gg/NQJuhb6stv.
