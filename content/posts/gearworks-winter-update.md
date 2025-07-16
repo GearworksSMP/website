@@ -17,7 +17,7 @@ cover:
 
 The Winter update is here and a few items have been added and a lot has changed as we strive to always improve the Gearworks server!
 
-First I want to say a huge thank you to my moderators, Kieranstinkyfeet, RascallyRabbit, ViperSoup, Kuha, SeaUnicorn and MegaTron_X, for all the support and help running Gearworks!
+First I want to say a huge thank you to my moderators, Kieranstinkyfeet, RascallyRabbit, ViperSoup, Kuha, SeaUnicorn, BigSwedish and MegaTron_X, for all the support and help running Gearworks!
 
 Second, thank you to all members for all your support. We are currently 1 away from reaching 50 members!
 
