@@ -80,7 +80,7 @@ We have tweaked some settings, hopefully for the better.
 
 ### Gearworks Additions
 
-The following changes were made with out Gearworks Additions mod
+The following changes were made with our Gearworks Additions mod
 
 - Trick or Treat Candy is now cheaper to make
 - Halloween drops from mobs are only 10x less likely when it's not close to Halloween, instead of 100x less likely.
