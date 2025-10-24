@@ -13,3 +13,4 @@ Here are links to live maps of the servers on Gearworks
  - [South West](/maps/southwest/)
  - [Mining](/maps/mining/)
  - [Creative](/maps/creative/)
+ - [Skylands](/maps/skylands/)
