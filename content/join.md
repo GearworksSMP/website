@@ -5,7 +5,7 @@ url: "/join/"
 summary: Join The Gearworks SMP
 ---
 
-Gearworks SMP is a paid server that you can join [by becoming a paid Patreon member of Uberswe](https://www.patreon.com/uberswe/membership).
+Gearworks SMP is a network of free and paid server instances that you can join via Discord and [by becoming a paid Patreon member of Uberswe](https://www.patreon.com/uberswe/membership).
 
 This server is recommended for players who are 18+ but we do not have any age verification. The server is based in the EU but we have members from all over the world.
 
