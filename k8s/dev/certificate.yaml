@@ -1,0 +1,12 @@
+apiVersion: cert-manager.io/v1
+kind: Certificate
+metadata:
+  name: gearworkssmp-com-dev-tls
+  namespace: gearworkssmp-com-dev
+spec:
+  secretName: gearworkssmp-com-dev-tls
+  issuerRef:
+    name: letsencrypt-production
+    kind: ClusterIssuer
+  dnsNames:
+    - gearworkssmp-com.9m.se

@@ -1,0 +1,16 @@
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: web-prod
+  namespace: gearworkssmp-com-prod
+spec:
+  entryPoints:
+    - websecure
+  routes:
+    - kind: Rule
+      match: Host(`gearworkssmp.com`) || Host(`www.gearworkssmp.com`)
+      services:
+        - name: web
+          port: 80
+  tls:
+    secretName: gearworkssmp-com-prod-tls

@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: web-config
+  namespace: gearworkssmp-com-dev
+data:
+  ENVIRONMENT: "development"
+  BASE_URL: "https://gearworkssmp-com.9m.se"
