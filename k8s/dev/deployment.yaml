@@ -21,7 +21,7 @@ spec:
         - name: ghcr-pull-secret
       containers:
         - name: web
-          image: ghcr.io/gearworkssmp/website:develop-96fc2ea
+          image: ghcr.io/gearworkssmp/website:develop-df146ef
           ports:
             - containerPort: 80
           envFrom:

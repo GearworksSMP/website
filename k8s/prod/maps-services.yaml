@@ -1,0 +1,148 @@
+---
+# External services for map proxies
+apiVersion: v1
+kind: Service
+metadata:
+  name: maps-northwest
+  namespace: gearworkssmp-com-prod
+spec:
+  ports:
+    - port: 80
+      targetPort: 25023
+---
+apiVersion: v1
+kind: Endpoints
+metadata:
+  name: maps-northwest
+  namespace: gearworkssmp-com-prod
+subsets:
+  - addresses:
+      - ip: 178.63.77.137
+    ports:
+      - port: 25023
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: maps-northeast
+  namespace: gearworkssmp-com-prod
+spec:
+  ports:
+    - port: 80
+      targetPort: 25033
+---
+apiVersion: v1
+kind: Endpoints
+metadata:
+  name: maps-northeast
+  namespace: gearworkssmp-com-prod
+subsets:
+  - addresses:
+      - ip: 178.63.77.137
+    ports:
+      - port: 25033
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: maps-southwest
+  namespace: gearworkssmp-com-prod
+spec:
+  ports:
+    - port: 80
+      targetPort: 25043
+---
+apiVersion: v1
+kind: Endpoints
+metadata:
+  name: maps-southwest
+  namespace: gearworkssmp-com-prod
+subsets:
+  - addresses:
+      - ip: 178.63.77.137
+    ports:
+      - port: 25043
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: maps-southeast
+  namespace: gearworkssmp-com-prod
+spec:
+  ports:
+    - port: 80
+      targetPort: 25053
+---
+apiVersion: v1
+kind: Endpoints
+metadata:
+  name: maps-southeast
+  namespace: gearworkssmp-com-prod
+subsets:
+  - addresses:
+      - ip: 178.63.77.137
+    ports:
+      - port: 25053
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: maps-creative
+  namespace: gearworkssmp-com-prod
+spec:
+  ports:
+    - port: 80
+      targetPort: 25013
+---
+apiVersion: v1
+kind: Endpoints
+metadata:
+  name: maps-creative
+  namespace: gearworkssmp-com-prod
+subsets:
+  - addresses:
+      - ip: 178.63.77.137
+    ports:
+      - port: 25013
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: maps-mining
+  namespace: gearworkssmp-com-prod
+spec:
+  ports:
+    - port: 80
+      targetPort: 25203
+---
+apiVersion: v1
+kind: Endpoints
+metadata:
+  name: maps-mining
+  namespace: gearworkssmp-com-prod
+subsets:
+  - addresses:
+      - ip: 178.63.77.137
+    ports:
+      - port: 25203
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: maps-skylands
+  namespace: gearworkssmp-com-prod
+spec:
+  ports:
+    - port: 80
+      targetPort: 25802
+---
+apiVersion: v1
+kind: Endpoints
+metadata:
+  name: maps-skylands
+  namespace: gearworkssmp-com-prod
+subsets:
+  - addresses:
+      - ip: 178.63.77.137
+    ports:
+      - port: 25802

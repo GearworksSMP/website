@@ -1,0 +1,133 @@
+---
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: maps-northwest
+  namespace: gearworkssmp-com-prod
+spec:
+  entryPoints:
+    - websecure
+  routes:
+    - kind: Rule
+      match: (Host(`gearworkssmp.com`) || Host(`www.gearworkssmp.com`)) && PathPrefix(`/maps/northwest`)
+      services:
+        - name: maps-northwest
+          port: 80
+      middlewares:
+        - name: strip-maps-northwest
+  tls:
+    secretName: gearworkssmp-com-prod-tls
+---
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: maps-northeast
+  namespace: gearworkssmp-com-prod
+spec:
+  entryPoints:
+    - websecure
+  routes:
+    - kind: Rule
+      match: (Host(`gearworkssmp.com`) || Host(`www.gearworkssmp.com`)) && PathPrefix(`/maps/northeast`)
+      services:
+        - name: maps-northeast
+          port: 80
+      middlewares:
+        - name: strip-maps-northeast
+  tls:
+    secretName: gearworkssmp-com-prod-tls
+---
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: maps-southwest
+  namespace: gearworkssmp-com-prod
+spec:
+  entryPoints:
+    - websecure
+  routes:
+    - kind: Rule
+      match: (Host(`gearworkssmp.com`) || Host(`www.gearworkssmp.com`)) && PathPrefix(`/maps/southwest`)
+      services:
+        - name: maps-southwest
+          port: 80
+      middlewares:
+        - name: strip-maps-southwest
+  tls:
+    secretName: gearworkssmp-com-prod-tls
+---
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: maps-southeast
+  namespace: gearworkssmp-com-prod
+spec:
+  entryPoints:
+    - websecure
+  routes:
+    - kind: Rule
+      match: (Host(`gearworkssmp.com`) || Host(`www.gearworkssmp.com`)) && PathPrefix(`/maps/southeast`)
+      services:
+        - name: maps-southeast
+          port: 80
+      middlewares:
+        - name: strip-maps-southeast
+  tls:
+    secretName: gearworkssmp-com-prod-tls
+---
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: maps-creative
+  namespace: gearworkssmp-com-prod
+spec:
+  entryPoints:
+    - websecure
+  routes:
+    - kind: Rule
+      match: (Host(`gearworkssmp.com`) || Host(`www.gearworkssmp.com`)) && PathPrefix(`/maps/creative`)
+      services:
+        - name: maps-creative
+          port: 80
+      middlewares:
+        - name: strip-maps-creative
+  tls:
+    secretName: gearworkssmp-com-prod-tls
+---
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: maps-mining
+  namespace: gearworkssmp-com-prod
+spec:
+  entryPoints:
+    - websecure
+  routes:
+    - kind: Rule
+      match: (Host(`gearworkssmp.com`) || Host(`www.gearworkssmp.com`)) && PathPrefix(`/maps/mining`)
+      services:
+        - name: maps-mining
+          port: 80
+      middlewares:
+        - name: strip-maps-mining
+  tls:
+    secretName: gearworkssmp-com-prod-tls
+---
+apiVersion: traefik.io/v1alpha1
+kind: IngressRoute
+metadata:
+  name: maps-skylands
+  namespace: gearworkssmp-com-prod
+spec:
+  entryPoints:
+    - websecure
+  routes:
+    - kind: Rule
+      match: (Host(`gearworkssmp.com`) || Host(`www.gearworkssmp.com`)) && PathPrefix(`/maps/skylands`)
+      services:
+        - name: maps-skylands
+          port: 80
+      middlewares:
+        - name: strip-maps-skylands
+  tls:
+    secretName: gearworkssmp-com-prod-tls
