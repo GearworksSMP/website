@@ -6,8 +6,9 @@ WORKDIR /src
 # Copy Hugo site files
 COPY . .
 
-# Initialize git submodules for theme
-RUN git init && git submodule update --init --recursive || true
+# Clone the theme (submodules don't copy properly in Docker)
+RUN rm -rf themes/hugo-PaperMod && \
+    git clone --depth 1 https://github.com/adityatelange/hugo-PaperMod.git themes/hugo-PaperMod
 
 # Build the static site
 RUN hugo --minify
