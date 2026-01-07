@@ -14,6 +14,7 @@ spec:
         - name: maps-northwest
           port: 80
       middlewares:
+        - name: authentik-forwardauth
         - name: strip-maps-northwest
   tls:
     secretName: gearworkssmp-com-dev-tls
@@ -33,6 +34,7 @@ spec:
         - name: maps-northeast
           port: 80
       middlewares:
+        - name: authentik-forwardauth
         - name: strip-maps-northeast
   tls:
     secretName: gearworkssmp-com-dev-tls
@@ -52,6 +54,7 @@ spec:
         - name: maps-southwest
           port: 80
       middlewares:
+        - name: authentik-forwardauth
         - name: strip-maps-southwest
   tls:
     secretName: gearworkssmp-com-dev-tls
@@ -71,6 +74,7 @@ spec:
         - name: maps-southeast
           port: 80
       middlewares:
+        - name: authentik-forwardauth
         - name: strip-maps-southeast
   tls:
     secretName: gearworkssmp-com-dev-tls
@@ -90,6 +94,7 @@ spec:
         - name: maps-creative
           port: 80
       middlewares:
+        - name: authentik-forwardauth
         - name: strip-maps-creative
   tls:
     secretName: gearworkssmp-com-dev-tls
@@ -109,6 +114,7 @@ spec:
         - name: maps-mining
           port: 80
       middlewares:
+        - name: authentik-forwardauth
         - name: strip-maps-mining
   tls:
     secretName: gearworkssmp-com-dev-tls
@@ -128,6 +134,7 @@ spec:
         - name: maps-skylands
           port: 80
       middlewares:
+        - name: authentik-forwardauth
         - name: strip-maps-skylands
   tls:
     secretName: gearworkssmp-com-dev-tls
